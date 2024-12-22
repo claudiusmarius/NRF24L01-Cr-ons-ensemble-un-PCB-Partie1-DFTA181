@@ -6,4 +6,7 @@ Pour des raisons de durée de vidéo, les explications concernant le PCB seront 
 Vidéo YouTube : https://youtu.be/nmghXR8IjIU
 
 Dans la partie 1 notre attention se porte principalement sur l'analyse du schéma
+
 Dans la partie 2 ce sera plutôt sur le routage du PCB avec une petite démo 
+
+Le Gerber sera dans les dossiers de la partie 2 (DFTA184)
